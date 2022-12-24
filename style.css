@@ -50,11 +50,17 @@
   text-align: center;
   display: flex;
   justify-content: center;
-  border: 1px solid #ff4c29;
   padding: 10px;
   border-radius: 20px;
   animation-name: move;
   animation-delay: 1500ms;
   animation-duration: 3s;
   animation-fill-mode: forwards;
+}
+
+.copy-design {
+  background-color: #082032;
+  color: #fafafa;
+  border-radius: 30px;
+  padding: 20px;
 }
